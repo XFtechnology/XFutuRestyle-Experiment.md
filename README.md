@@ -1,5 +1,7 @@
 ## XFutuRestyle-Experiment
 
+By Oleh Zhyntychka
+
 Image transformer in the impressive futuristic art of the new generation Developed in Ukraine
 
 https://chatgpt.com/g/g-Eb5rmsA4I-xfuturestyle-experiment

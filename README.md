@@ -1,4 +1,8 @@
-## XFutuRestyle-Experiment
+
+
+<img align="left" src="https://chatgptprompt.cc/wp-content/uploads/2024/02/5/177705.png" width="64" height="64" />
+
+# XFutuRestyle Experiment
 
 By Oleh Zhyntychka
 
